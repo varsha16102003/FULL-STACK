@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color:rgb(250, 252, 253);
+    text-align: center;
+  }
+  .container{
+    width:25vw;
+    height:100vh;
+    background-image: url('./asset/todolistbg.webp');
+    
+  }
+
+.p2{
+    text-align: left;
+}
+.p3{
+    text-align: justify;
+}
+.last{
+    text-decoration: underline;
+}
+.btn{
+    background-color: rgb(243, 128, 46);
+
+}
