@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.chat-container {
+    max-width: 400px;
+    margin: 20px auto;
+    border: 1px solid #130f0f;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+}
+
+.chat-header {
+    background-color: #5a5e5c;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+}
+.messages {
+    max-height: 500px;
+    padding: 10px;
+    color:#fff
+}
+
+
+.received {
+    background-color: #5a5e5c;
+    text-align: left;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 9px 9px 9px 0;
+}
+
+.sent {
+    background-color: #4c9bbb;
+    text-align: right;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 9px 9px 0 9px;
+    
+}
+
+
+
+
